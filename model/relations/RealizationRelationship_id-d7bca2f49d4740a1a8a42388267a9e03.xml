@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide"
+    id="id-d7bca2f49d4740a1a8a42388267a9e03">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-238de018de2249c89e305565046e2979.xml#id-238de018de2249c89e305565046e2979"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-aecb531256ca4ec69740501ddf747888.xml#id-aecb531256ca4ec69740501ddf747888"/>
+</archimate:RealizationRelationship>

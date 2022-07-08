@@ -1,0 +1,19 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server Class &lt;&lt;1>>"
+    id="id-3cf0475ae98e4fabb9e07aa1679c843c">
+  <properties
+      key="CPU"/>
+  <properties
+      key="Memory"/>
+  <properties
+      key="Networking Interface"/>
+  <properties
+      key="Storage Interface"/>
+  <properties
+      key="Network Card"/>
+  <properties
+      key="Storage Card"/>
+  <properties
+      key="Physical Socket"/>
+</archimate:Node>
